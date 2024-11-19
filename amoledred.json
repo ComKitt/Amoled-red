@@ -54,7 +54,7 @@
             "#ff0000"
         ],
         "BACKGROUND_FLOATING": [
-            "#00000045"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -113,7 +113,7 @@
         "PRIMARY_360": "#ff0000",
         "PRIMARY_400": "#ff0000",
         "PRIMARY_500": "#000000",
-        "PRIMARY_600": "#00000042",
+        "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
