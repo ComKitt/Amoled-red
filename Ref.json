@@ -3,12 +3,12 @@
   "description": "An Comfy Dark Purple Theme",
   "authors": [
     {
-      "name": "Lyntxrya#7769",
+      "name": "ComKitt",
       "id": "183251375193456641"
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": ["#eb6f9250"],
+    "ANDROID_RIPPLE": ["#ff0000"],
     "HEADER_PRIMARY": ["#5e61ff"],
     "HEADER_SECONDARY": ["#e0def4"],
     "TEXT_NORMAL": ["#d8c9ff"],
