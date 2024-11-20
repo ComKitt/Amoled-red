@@ -86,14 +86,14 @@
     "PRIMARY_800": "#0f0f0f",
     "WHITE_500": "#dffc5d",
     "PLUM_13": "#0f0f0f",
-    "PLUM_15": "#ff0000",
+    "PLUM_15": "#dffc5d",
     "PLUM_16": "#000000",
-    "PLUM_17": "#ff0000",
-    "PLUM_18": "#ff0000",
+    "PLUM_17": "#dffc5d",
+    "PLUM_18": "#dffc5d",
     "PLUM_19": "#0f0f0f",
     "PLUM_20": "#0f0f0f",
     "PLUM_22": "#0f0f0f",
-    "PLUM_23": "#ff0000"
+    "PLUM_23": "#dffc5d"
   },
   "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
